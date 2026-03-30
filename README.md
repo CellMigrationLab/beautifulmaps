@@ -7,6 +7,7 @@ This repository contains the original Jupyter notebook to generate a high-resolu
 ## Repository contents
 
 - `notebooks/BeautifulMaps.ipynb` — original notebook
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CellMigrationLab/beautifulmaps/blob/main/notebooks/BeautifulMaps.ipynb)
 
 ---
 
